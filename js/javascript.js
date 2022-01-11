@@ -1,4 +1,4 @@
 // fichero js
 function saludo(){
-    alert("Hola mundo");
+    alert("Hola world");
 }
